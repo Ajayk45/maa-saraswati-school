@@ -10,3 +10,5 @@ build/
 .packages
 
 backend/uploads/
+backend/src/uploads/
+backend/.env
